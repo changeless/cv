@@ -1,19 +1,22 @@
 ---
 permalink: /
-title: "About Me"
+title: "Ling Jin"
+headline: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Ph.D. candidate in **Molecular and Computational Biology** at the **University of Southern California** (USC), expecting to graduate in Spring 2026. My research combines deep training in complex R&D systems, quantitative data analysis, and workflow design. I am experienced in translating scientific and technical complexity into structured insights through automation, analytics, and cross-functional collaboration.
+<div style="font-size: 0.88em;" markdown="1">
 
-Currently, I work as a Graduate Researcher in the *Xenopus* Egg Extract Synthetic Systems lab under Prof. [Xianrui Cheng](https://xianruichenglab.weebly.com/). My work focuses on designing and implementing end-to-end imaging and data workflows, building AI-assisted pipelines for spatial protein localization, and developing cell-free transcription–translation systems.
+I am a Ph.D. candidate in Molecular and Computational Biology at the **University of Southern California** (USC), with an expected graduation in Spring 2026. My research explores how cell-like organization emerges from biochemical systems, using synthetic and cell-free approaches combined with quantitative imaging and data-driven analysis.
 
-Prior to USC, I earned my B.Sc. in Microbiology and Cell Science with a minor in Bioinformatics (Cum Laude) from the **University of Florida**.
+I am currently a Graduate Researcher in the *Xenopus* Egg Extract Synthetic Systems lab under the supervision of Prof. [Xianrui Cheng](https://xianruichenglab.weebly.com/). My work focuses on analyzing spatial protein localization and cytoskeletal dynamics in *Xenopus* egg extract systems, with particular interest in how microtubule-based structures self-organize in the absence of canonical organizers. I showed that during cell-like compartment formation, centrosome-independent microtubule asters with reversed polarity emerge as early organizing structures and recruit cytokinesis-related signaling components, linking cytoskeletal self-organization to division pathways.
 
-I am primarily seeking Research and Development (R&D) opportunities.
+In parallel, I am developing a scalable and robust *Xenopus* egg extract–based cell-free protein synthesis platform aimed at overcoming the trade-off in existing CFPS systems between complex protein folding and cost-effective production. This platform demonstrates strong performance in producing PTM-dependent structural proteins and multimeric motor proteins, providing a promising alternative for both basic research and therapeutic protein production. Across these projects, my strengths lie in high-resolution imaging, quantitative analysis, and automated data processing workflows that enable reproducible, system-level insights.
+
+Prior to USC, I earned my B.Sc. in Microbiology and Cell Science with a minor in Bioinformatics (Cum Laude) from the **University of Florida**, where I trained across multiple laboratories spanning distinct biological questions and experimental approaches. In the labs of [Piyush Jain](https://faculty.eng.ufl.edu/piyush-jain/), [Charles Baer](https://people.clas.ufl.edu/cbaer/), and [Julie Maupin-Furlow](https://microcell.ufl.edu/research/maupin-lab/), I worked on CRISPR-based diagnostics, evolutionary genomics, and archaeal protein regulation, gaining experience in molecular engineering, whole-genome analysis, and biochemical characterization. I further expanded my technical scope through visiting research with Prof. [Wei Chen](https://scholar.google.com/citations?hl=en&user=bKZA82cAAAAJ&view_op=list_works) at the **Southern University of Science and Technology (SUSTech)**, focusing on RNA regulatory network analysis, and with Prof. [Lei Wang](https://pharm.ucsf.edu/wang) at **UCSF**, working on chemical biology approaches to probe protein–protein and protein–RNA interactions.
 
 <h2 id="publications">Publications</h2>
 
@@ -40,6 +43,19 @@ I am primarily seeking Research and Development (R&D) opportunities.
 *   **Teaching Assistant**, BISC110: Good Gene Bad Gene (USC, 2024 Spring, 2025 Spring)
 *   **Teaching Assistant**, BISC403: Advanced Molecular Biology (USC, 2024 Fall)
 *   **Teaching Assistant**, MCB2006: Microbes Without Borders (University of Florida, 2018 Fall)
+
+<h2 id="awards">Awards and Honors</h2>
+
+*   **Dornsife Summer Research Fellowship**, USC Dornsife College of Letters, Arts, and Sciences, 2025
+*   **Professional Development Fund**, USC Graduate Student Government, 2025
+*   **ASCB Travel Grant**, American Society for Cell Biology, 2024
+*   **MBGSA Travel Grant**, USC Molecular Biology Graduate Student Association, 2024
+*   **International Scholar Program Certification**, UF, 2020
+*   **CALS Scholarship**, College of Agricultural and Life Science, UF, 2019 – 2020
+*   **Phi Kappa Phi Scholarship**, The Honor Society of Phi Kappa Phi Scholarship, 2019
+*   **Emelie Matthews Award of Excellence**, College of Agricultural and Life Science, UF (Finalist: top 3), 2019
+
+</div>
 
 
 

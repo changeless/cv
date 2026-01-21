@@ -9,7 +9,7 @@ redirect_from:
 
 updated in 2026.01
 
-<p><a href="{{ site.url }}{{ site.baseurl }}/files/Jin_Ling_CV_2026.1.pdf" target="_blank">Download CV (PDF)</a></p>
+<p><a href="{{ site.url }}{{ site.baseurl }}/files/Jin_Ling_CV(2026.1).pdf" target="_blank">Download CV (PDF)</a></p>
 
-<iframe src="{{ site.url }}{{ site.baseurl }}/files/Jin_Ling_CV_2026.1.pdf" width="100%" height="1000px">
+<iframe src="{{ site.url }}{{ site.baseurl }}/files/Jin_Ling_CV(2026.1).pdf" width="100%" height="1000px">
 </iframe>
