@@ -14,7 +14,7 @@ I am a Ph.D. candidate in Molecular and Computational Biology at the **Universit
 
 I am currently a Graduate Researcher in the *Xenopus* Egg Extract Synthetic Systems lab under the supervision of Prof. [Xianrui Cheng](https://xianruichenglab.weebly.com/). My work focuses on analyzing spatial protein localization and cytoskeletal dynamics in *Xenopus* egg extract systems, with particular interest in how microtubule-based structures self-organize in the absence of canonical organizers. I showed that during cell-like compartment formation, centrosome-independent microtubule asters with reversed polarity emerge as early organizing structures and recruit cytokinesis-related signaling components, linking cytoskeletal self-organization to division pathways.
 
-In parallel, I am developing a scalable and robust *Xenopus* egg extract–based cell-free protein synthesis platform aimed at overcoming the trade-off in existing CFPS systems between complex protein folding and cost-effective production. This platform demonstrates strong performance in producing PTM-dependent structural proteins and multimeric motor proteins, providing a promising alternative for both basic research and therapeutic protein production. Across these projects, my strengths lie in high-resolution imaging, quantitative analysis, and automated data processing workflows that enable reproducible, system-level insights.
+In parallel, I am developing a scalable cell-free protein synthesis (CFPS) platform to bridge the gap between complex protein folding and cost-effective production. Beyond the immediate scientific output, I place equal emphasis on the advancement of research methodology. By integrating this platform with high-resolution imaging and automated data processing pipelines, I aim to transform traditional bench-top experiments into reproducible, high-throughput discovery workflows. This dual focus allows me to not only address specific biological questions but also contribute robust, scalable tools to the broader research community. Across these projects, my strengths lie in high-resolution imaging, quantitative analysis, and automated data processing workflows that enable reproducible, system-level insights.
 
 Prior to USC, I earned my B.Sc. in Microbiology and Cell Science with a minor in Bioinformatics (Cum Laude) from the **University of Florida**, where I trained across multiple laboratories spanning distinct biological questions and experimental approaches. In the labs of [Piyush Jain](https://faculty.eng.ufl.edu/piyush-jain/), [Charles Baer](https://people.clas.ufl.edu/cbaer/), and [Julie Maupin-Furlow](https://microcell.ufl.edu/research/maupin-lab/), I worked on CRISPR-based diagnostics, evolutionary genomics, and archaeal protein regulation, gaining experience in molecular engineering, whole-genome analysis, and biochemical characterization. I further expanded my technical scope through visiting research with Prof. [Wei Chen](https://scholar.google.com/citations?hl=en&user=bKZA82cAAAAJ&view_op=list_works) at the **Southern University of Science and Technology (SUSTech)**, focusing on RNA regulatory network analysis, and with Prof. [Lei Wang](https://pharm.ucsf.edu/wang) at **UCSF**, working on chemical biology approaches to probe protein–protein and protein–RNA interactions.
 
@@ -31,18 +31,21 @@ Prior to USC, I earned my B.Sc. in Microbiology and Cell Science with a minor in
 
 <h2 id="talks">Talks</h2>
 
-*   **Jin, L.**, Liu, M., & Cheng, X. A Polarity-Reversed Microtubule Aster Mediates De Novo Assembly of Living Systems. *American Society for Cell Biology Cell Bio 2024*. San Diego, CA, 2024.
+*   **Jin, L.**, Liu, M., & Cheng, X. (2024). A Polarity-Reversed Microtubule Aster Mediates De Novo Assembly of Living Systems. *American Society for Cell Biology Cell Bio 2024*, San Diego, CA.
 *   Nguyen, L., Smith, B., **Jin, L.**, & Jain, P. (2020). Engineered CRISPR/Cas12a System As a Sensitive Diagnostic Tool for Detecting HCV, HIV, and SARS-CoV-2. *2020 AIChE Annual Meeting*.
-*   **Jin, L.**, Mondragon, P., Maupin, J.A., Thiamine diphosphate synthesis from thiamine in Archaea. *Undergraduate Research Symposium*, Gainesville, FL, 2019.
-*   **Jin, L.**, Adams, Z., Batbatan, C., Maupin, J.A., Ubiquitin-binding of nascent polypeptide-associated complex (NAC) protein in Archaea. *Florida Undergraduate Research Conference*, Jacksonville, FL, 2019.
+*   **Jin, L.**, Mondragon, P., & Maupin, J.A. (2019). Thiamine diphosphate synthesis from thiamine in Archaea. *Undergraduate Research Symposium*, Gainesville, FL.
+*   **Jin, L.**, Adams, Z., Batbatan, C., & Maupin, J.A. (2019). Ubiquitin-binding of nascent polypeptide-associated complex (NAC) protein in Archaea. *Florida Undergraduate Research Conference*, Jacksonville, FL.
 
 <h2 id="teaching">Teaching</h2>
 
-*   **Teaching Assistant**, BISC 220 General Biology: Cell Biology and Physiology (USC, 2026 Spring)
-*   **Teaching Assistant**, BISC120: General Biology: Organismal Biology and Evolution (USC, 2021 Fall, 2025 Fall)
-*   **Teaching Assistant**, BISC110: Good Gene Bad Gene (USC, 2024 Spring, 2025 Spring)
-*   **Teaching Assistant**, BISC403: Advanced Molecular Biology (USC, 2024 Fall)
-*   **Teaching Assistant**, MCB2006: Microbes Without Borders (University of Florida, 2018 Fall)
+### University of Southern California, Teaching Assistant
+*   BISC 220 General Biology: Cell Biology and Physiology (2026 Spring)
+*   BISC 120: General Biology: Organismal Biology and Evolution (2021 Fall, 2025 Fall)
+*   BISC 110: Good Gene Bad Gene (2024 Spring, 2025 Spring)
+*   BISC 403: Advanced Molecular Biology (2024 Fall)
+
+### University of Florida, Teaching Assistant
+*   MCB 2006: Microbes Without Borders (2018 Fall)
 
 <h2 id="awards">Awards and Honors</h2>
 
